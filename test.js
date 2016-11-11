@@ -16,6 +16,7 @@ execute(sayHello); */
 function B() {
     console.log('b');
 }
+
 A(B);*/
 //================
 /*var arr = [3, 2, 5, 8, 9, 10, 11];
